@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Clock_HOOKS_challange" 
+
+
+If want to add the the self update time then use SETinterval(newTime, 1000);
